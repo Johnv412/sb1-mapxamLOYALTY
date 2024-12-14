@@ -1,0 +1,20 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.loyalty-engine-admin-wrapper {
+    margin: 20px;
+}
+
+.loyalty-engine-admin-header {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.loyalty-engine-admin-section {
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}

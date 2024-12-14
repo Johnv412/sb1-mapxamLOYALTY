@@ -1,0 +1,23 @@
+# Copyright (C) 2023 Your Name
+# This file is distributed under the same license as the LoyaltyEngine plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LoyaltyEngine 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/loyalty-engine\n"
+"POT-Creation-Date: 2023-07-20 12:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-loyalty-engine-admin.php:20
+msgid "LoyaltyEngine"
+msgstr ""
+
+#: admin/partials/loyalty-engine-admin-display.php:2
+msgid "LoyaltyEngine Settings"
+msgstr ""
+
+# Add more translatable strings as needed
